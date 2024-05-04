@@ -2,7 +2,7 @@
 
 ## Graduate
 
-![Диплом](Graduate/Бурова В.Д._Диплом.jpeg)
+![БуроваВД_Диплом.jpeg](Graduate/БуроваВД_Диплом.jpeg)
 
 ## PIX BI
 ![PIX BI](PIX BI/?)
