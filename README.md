@@ -1,4 +1,4 @@
-# Data Analyst / BI Developer / Business Analyst / Data Engineer
+# Data Analyst / BI Developer / Data Engineer
 
 ## 👨🏻‍💻Skills
   - Python, C/C++, SQL (PostgreSQL, SQLite)
