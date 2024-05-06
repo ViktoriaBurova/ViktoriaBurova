@@ -12,7 +12,7 @@
 ## ✅About
   - BI Developer in [BI Consult](https://datafinder.ru/)
   - Student of [21 School](https://21-school.ru)
-  - Student of TUSUR, Applied Computer Science
+  - Student of [TUSUR](https://tusur.ru/ru), Applied Computer Science
 
 ## 🎓Portfolio
   - [Stepik](https://stepik.org/users/495002246)
