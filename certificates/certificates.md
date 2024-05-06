@@ -1,7 +1,7 @@
 # Certificates
 
 ## PIX BI
-![PIX BI](PIX BI/?)
+![PIX BI](PIX_BI/Сертификат_PIX_BI.jpg)
 
 ## Graduate
 ![БуроваВД_Диплом.jpeg](Graduate/БуроваВД_Диплом.jpeg)
