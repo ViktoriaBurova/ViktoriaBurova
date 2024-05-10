@@ -1,7 +1,8 @@
 # Data Analyst / BI Developer / Data Engineer
 
 ## 👨🏻‍💻Skills
-  - Python, C/C++, SQL (PostgreSQL, SQLite)
+  - C/C++, Python
+  - SQL (PostgreSQL, SQLite)
   - BI (Qlik Sense/View, PIX BI, Tableau)
   - Modeling and diagrams (UML, IDEF0, BPMN)
   - Microsoft Office (Word, Excel, PowerPoint, Access)
