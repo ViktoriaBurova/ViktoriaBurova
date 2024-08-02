@@ -11,7 +11,7 @@
   - Miro / Figma
 
 ## ✅About
-  - BI Developer in [BI Consult](https://datafinder.ru/)
+  - BI Developer in [Axenix](https://axenix.pro/)
   - Student of [21 School](https://21-school.ru)
   - Student of [TUSUR](https://tusur.ru/ru), Applied Computer Science
 
