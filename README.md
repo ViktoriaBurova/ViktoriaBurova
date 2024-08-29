@@ -1,11 +1,11 @@
 # Data Analyst / BI Developer / Data Engineer
 
 ## 👨🏻‍💻Skills
-  - C/C++
   - SQL (PostgreSQL, SQLite)
-  - BI (Qlik Sense/View, PIX BI, Tableau)
+  - BI (Qlik Sense, DeltaBI, Tableau, PIX BI)
   - Modeling and diagrams (UML, IDEF0, BPMN)
   - Microsoft Office (Word, Excel, PowerPoint, Access)
+  - C/C++
   - Doker
   - Jira / Confluence
   - Miro / Figma
@@ -17,8 +17,8 @@
 
 ## 🎓Portfolio
   - [Stepik](https://stepik.org/users/495002246)
-  - [Tableau](https://public.tableau.com/app/profile/viktoria.burova)
   - [Certificates](certificates/certificates.md)
+<!---  - [Tableau](https://public.tableau.com/app/profile/viktoria.burova) --->
 
 ### 📱Contacts
 | 📫 burov.viktoria@yandex.ru | ✈️ telegram: @VikiBur |
